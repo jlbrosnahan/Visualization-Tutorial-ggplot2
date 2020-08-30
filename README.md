@@ -8,7 +8,7 @@ I felt a need to create a visualization tutorial for people who are just learnin
 I felt a need to help people who are new to ggplot2 build some presentation worthy plots in a quick amount of time, something I would have wanted. This tutorial aids in understanding ggplot2 quickly, so that you can start writing code and build plots faster on your own. It helps give high-level and detailed-level experience in only 10-15 minutes.
 
 ## Requirements
-If you are newer to ggplot2, completing an introductory tutorial would be helpful, but honestly is probably not necessary. 
+If you are newer to ggplot2, completing an introductory tutorial would be helpful, but probably not necessary. 
 
 ## Published
-This visualization tutorial was published on *Towards Data Science* and is available at: https://towardsdatascience.com/beginners-guide-to-enhancing-visualizations-in-r-9fa5a00927c9
+This visualization tutorial was published on *Towards Data Science* and is available at: https://towardsdatascience.com/beginners-guide-to-enhancing-visualizations-in-r-9fa5a00927c9. Also see Visual.md for full analysis.
