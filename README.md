@@ -10,5 +10,9 @@ I felt a need to help people who are new to ggplot2 build some presentation wort
 ## Requirements
 If you are newer to ggplot2, completing an introductory tutorial would be helpful, but probably not necessary. 
 
+## Visualizations Beginners can Build
+
+![Visual 2](https://github.com/jlbrosnahan/Visualization-Tutorial-ggplot2/blob/master/Visual-RMD_files/figure-html/unnamed-chunk-20-1.png)
+
 ## Published
 This visualization tutorial was published on *Towards Data Science* and is available at: https://towardsdatascience.com/beginners-guide-to-enhancing-visualizations-in-r-9fa5a00927c9. Also see Visual-RMD.md for full analysis.
